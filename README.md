@@ -34,3 +34,4 @@
   
  ##
  
+ ![Snake animation](https://github.com/Dec0XD/Dec0XD/blob/output/github-contribution-grid-snake.svg)
