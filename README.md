@@ -10,6 +10,7 @@
   
  ##
  
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Dec0XD&theme=gotham&hide_border=true&area=true)
 
 ##
   
