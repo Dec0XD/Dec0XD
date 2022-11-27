@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/Dec0XD">
-  <img height="175px" width="440px" length="100px" src="https://github-readme-stats.vercel.app/api?username=Dec0XD&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="275px" width="440px" length="100px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Dec0XD&hide=Cmake,Swift&langs_count=10&theme=dark&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dec0XD&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Dec0XD&hide=Cmake,Swift&langs_count=10&theme=dark&layout=compact"/>
 </div>
   
  ##
