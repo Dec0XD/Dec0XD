@@ -12,9 +12,9 @@
 import Developer from 'André_Coêlho';
 
 class About_me extends Developer {
-  name     = 'André Coêlho';
-  area    = 'Back-End';
-  work  = 'Freelance';
+  name = 'André Coêlho';
+  area = 'Back-End';
+  work = 'Freelance';
   location = 'Salvador, BA';
 }
 ```
