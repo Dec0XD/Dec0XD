@@ -58,7 +58,7 @@ class About_me extends Developer {
 <a href="https://github.com/Dec0XD">
     <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Dec0XD&hide=Cmake,Swift&langs_count=10&theme=dark&layout=compact"/>
 </a>
-
+<br>
 <a href="https://github.com/Dec0XD">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dec0XD&show_icons=true&theme=dark&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
