@@ -73,3 +73,15 @@ class About_me extends Developer {
   <a href="https://instagram.com/coelhoandrelucas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andré-lucas-coêlho-b55b0622a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
+
+### Experiência de trabalho
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+**Freelance Developer** \
+[**Freelance**] • Full-time \
+Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `JavaScript`\
+Projetos em destaque: [Portal de calculo](https://github.com/Dec0XD/1projeto)
+<br/>
+
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/andré-lucas-coêlho-b55b0622a/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
