@@ -52,17 +52,27 @@ class About_me extends Developer {
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   </div>
 
-## **GitHub Statistics**
+## **GitHub stats** 
+
+<h4 align="center">Visitor's count</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{Dec0XD}/count.svg" alt="Dec0XD :: Visitor's Count" /></p>
 
 <div align="center">
+<h4 align="center">Top langs</h4>
 <a href="https://github.com/Dec0XD">
     <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Dec0XD&hide=Cmake,Swift&langs_count=10&theme=dark&layout=compact"/>
 </a>
+  
 <br>
+  
+ <h4 align="center">Profile stats:</h4>
 <a href="https://github.com/Dec0XD">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dec0XD&show_icons=true&theme=dark&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 </div>
+
+---
+  
   
 <br>
   
