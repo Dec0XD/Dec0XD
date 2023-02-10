@@ -57,19 +57,11 @@ class About_me extends Developer {
 <h4 align="center">Visitor's count</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Dec0XD}/count.svg" alt="Dec0XD :: Visitor's Count" /></p>
 
-<div align="center">
-<h4 align="center">Top langs</h4>
-<a href="https://github.com/Dec0XD">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Dec0XD&hide=Cmake,Swift&langs_count=10&theme=dark&layout=compact"/>
-</a>
-  
-<br>
-  
- <h4 align="center">Profile stats:</h4>
-<a href="https://github.com/Dec0XD">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dec0XD&show_icons=true&theme=dark&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
-</div>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dec0XD&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dec0XD&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dec0XD&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dec0XD&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Dec0XD&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 
 ---
   
