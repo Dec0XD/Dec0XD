@@ -8,15 +8,14 @@
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```js
-import Developer from 'André_Coêlho';
-
-class About_me extends Developer {
-  name = 'André Coêlho';
-  area = 'Back-End';
-  work = 'Freelance';
-  location = 'Salvador, BA';
-}
+```py
+class AboutMe(Developer):
+    def __init__(self):
+        super().__init__()
+        self.name = 'André Coêlho'
+        self.area = 'Back-End'
+        self.work = 'Freelance'
+        self.location = 'Salvador, BA'
 ```
 
 ## **Skills and Tools:**  
@@ -78,6 +77,12 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**Freelance**] • Full-time \
 Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `JavaScript`\
 Projetos em destaque: [Portal de calculo](https://github.com/Dec0XD/1projeto)
+<br/>
+
+**Senai Cimatec Developer** \
+[**Clt**] • Full-time \
+Linguagens & Tecnologias: `Python`, `Flask`, `HTML`, `JavaScript`\
+Projetos em destaque: [Projeto Semantc jung](https://github.com/Dec0XD/1projeto), [projeto assistente virtual](https://github.com/Dec0XD/1projeto)
 <br/>
 
 
