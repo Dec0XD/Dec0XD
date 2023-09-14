@@ -73,14 +73,18 @@ class AboutMe(Developer):
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://servicoprocessamento.com/wp-content/uploads/2021/11/freelance-1024x683.jpg"/>](https://www.spacex.com/)
+
 **Freelance Developer** \
 [**Freelance**] • Full-time \
 Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `JavaScript`\
 Projetos em destaque: [Portal de calculo](https://github.com/Dec0XD/1projeto)
 <br/>
 
-**Senai Cimatec Developer** \
-[**Junior**] • Full-time \
+[<img align="left" height="94px" width="94px" alt="SenaiCimatec" src="https://evento.connectedsmartcities.com.br/wp-content/uploads/2018/02/csc18_logo_senai_cimatec_300x184.jpg"/>](https://www.senaicimatec.com.br)
+
+**Back-end Developer (Jr)** \
+[**Senai Cimatec**](https://rocketseat.com.br/) • Full-time \
 Linguagens & Tecnologias: `Python`, `Flask`, `HTML`, `JavaScript`\
 Projetos em destaque: [Projeto Semantc jung](https://github.com/Dec0XD/1projeto), [projeto assistente virtual](https://github.com/Dec0XD/1projeto)
 <br/>
