@@ -80,7 +80,7 @@ Projetos em destaque: [Portal de calculo](https://github.com/Dec0XD/1projeto)
 <br/>
 
 **Senai Cimatec Developer** \
-[**Clt**] • Full-time \
+[**Junior**] • Full-time \
 Linguagens & Tecnologias: `Python`, `Flask`, `HTML`, `JavaScript`\
 Projetos em destaque: [Projeto Semantc jung](https://github.com/Dec0XD/1projeto), [projeto assistente virtual](https://github.com/Dec0XD/1projeto)
 <br/>
