@@ -73,21 +73,27 @@ class AboutMe(Developer):
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://servicoprocessamento.com/wp-content/uploads/2021/11/freelance-1024x683.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/JDvKD_pmlbIWhASNmqn8IaGUPzdRhhQ2Mpqk5Yj7Z9ZqREtV8oprlxh38TiUGPZpwF379k3fDA=s900-c-k-c0x00ffffff-no-rj"/>](https://www.spacex.com/)
 
-**Freelance Developer** \
-[**Freelance**] • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `JavaScript`\
-Projetos em destaque: [Portal de calculo](https://github.com/Dec0XD/1projeto)
+**Intelligence and research trainee** \
+[**Rede Bahia**](https://www.redebahia.com.br/) • Full-time \
+Linguagens & Tecnologias: `Python`, `Flask`, `HTML`, `JavaScript`, `C#`, `Excel`, `Power BI`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="SenaiCimatec" src="https://evento.connectedsmartcities.com.br/wp-content/uploads/2018/02/csc18_logo_senai_cimatec_300x184.jpg"/>](https://www.senaicimatec.com.br)
 
-**Back-end Developer (Jr)** \
-[**Senai Cimatec**](https://rocketseat.com.br/) • Full-time \
+**Back-end Developer** \
+[**Senai Cimatec**](https://seja.senaicimatec.com.br/graduacao/?utm_source=ZYGON&utm_medium=SEARCH&utm_campaign=SEARCH_OBJECTIVA_FIEB-SENAI_CIMATEC-GRADUACAO-2024-1_SET-NOV-23_NA&utm_content=SEARCH_OBJECTIVA_FIEB-SENAI_CIMATEC-GRADUACAO-2024-1_SET-NOV-23_NA_NA_NA_NA_&utm_term=SEARCH_OBJECTIVA_FIEB-SENAI_CIMATEC-GRADUACAO-2024-1_SET-NOV-23_NA_NA_NA&gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEvvMs5crIKeMWKcWBc0mqtewevaxzCzT01FmANTKbIM2oiNulnf4ohoCMskQAvD_BwE/) • Full-time \
 Linguagens & Tecnologias: `Python`, `Flask`, `HTML`, `JavaScript`\
 Projetos em destaque: [Projeto Semantc jung](https://github.com/Dec0XD/1projeto), [projeto assistente virtual](https://github.com/Dec0XD/1projeto)
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://servicoprocessamento.com/wp-content/uploads/2021/11/freelance-1024x683.jpg"/>](https://https://www.redebahia.com.br/)
+
+**Freelance Developer** \
+[**Freelance**] • Full-time \
+Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `JavaScript`\
+Projetos em destaque: [Portal de calculo](https://projeto-site-phi.vercel.app/), [Portal MecD](https://mecd.vercel.app/)
+<br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/andré-lucas-coêlho-b55b0622a/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
