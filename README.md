@@ -85,7 +85,7 @@ Linguagens & Tecnologias: `Python`, `Flask`, `HTML`, `JavaScript`, `C#`, `Excel`
 
 **Back-end Developer** \
 [**Senai Cimatec**](https://seja.senaicimatec.com.br/graduacao/?utm_source=ZYGON&utm_medium=SEARCH&utm_campaign=SEARCH_OBJECTIVA_FIEB-SENAI_CIMATEC-GRADUACAO-2024-1_SET-NOV-23_NA&utm_content=SEARCH_OBJECTIVA_FIEB-SENAI_CIMATEC-GRADUACAO-2024-1_SET-NOV-23_NA_NA_NA_NA_&utm_term=SEARCH_OBJECTIVA_FIEB-SENAI_CIMATEC-GRADUACAO-2024-1_SET-NOV-23_NA_NA_NA&gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEvvMs5crIKeMWKcWBc0mqtewevaxzCzT01FmANTKbIM2oiNulnf4ohoCMskQAvD_BwE/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Flask`, `HTML`, `JavaScript`\
+Linguagens & Tecnologias: `Python`, `NodeJS`, `React Native`, `HTML5`, `JavaScript`, `CSS3`\
 Projetos em destaque: [Projeto Semantc jung](https://github.com/Dec0XD/1projeto), [projeto assistente virtual](https://github.com/Dec0XD/1projeto)
 <br/>
 
