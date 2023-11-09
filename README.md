@@ -78,14 +78,14 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Intelligence and research trainee** \
 [**Rede Bahia**](https://www.redebahia.com.br/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Flask`, `HTML`, `JavaScript`, `C#`, `Excel`, `Power BI`\
+Linguagens & Tecnologias: `Python`, `NodeJS`, `React Native`, `HTM5L`,`CSS3`, `JavaScript`, `C#`, `Excel`, `Power BI`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="SenaiCimatec" src="https://evento.connectedsmartcities.com.br/wp-content/uploads/2018/02/csc18_logo_senai_cimatec_300x184.jpg"/>](https://www.senaicimatec.com.br)
 
 **Back-end Developer** \
 [**Senai Cimatec**](https://seja.senaicimatec.com.br/graduacao/?utm_source=ZYGON&utm_medium=SEARCH&utm_campaign=SEARCH_OBJECTIVA_FIEB-SENAI_CIMATEC-GRADUACAO-2024-1_SET-NOV-23_NA&utm_content=SEARCH_OBJECTIVA_FIEB-SENAI_CIMATEC-GRADUACAO-2024-1_SET-NOV-23_NA_NA_NA_NA_&utm_term=SEARCH_OBJECTIVA_FIEB-SENAI_CIMATEC-GRADUACAO-2024-1_SET-NOV-23_NA_NA_NA&gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEvvMs5crIKeMWKcWBc0mqtewevaxzCzT01FmANTKbIM2oiNulnf4ohoCMskQAvD_BwE/) • Full-time \
-Linguagens & Tecnologias: `Python`, `NodeJS`, `React Native`, `HTML5`, `JavaScript`, `CSS3`\
+Linguagens & Tecnologias: `Python`, `Flask`, `HTML5`, `JavaScript`, `CSS3`\
 Projetos em destaque: [Projeto Semantc jung](https://github.com/Dec0XD/1projeto), [projeto assistente virtual](https://github.com/Dec0XD/1projeto)
 <br/>
 
