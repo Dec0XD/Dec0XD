@@ -94,7 +94,7 @@ Projetos em destaque: [Projeto Semantc jung](https://github.com/Dec0XD/1projeto)
 **Freelance Developer** \
 [**Freelance**] • Full-time \
 Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `JavaScript`\
-Projetos em destaque: [Portal de calculo](https://projeto-site-phi.vercel.app/), [Portal MecD](https://mecd.vercel.app/)
+Projetos em destaque: [WiseCalc](https://projeto-site-phi.vercel.app/), [Portal MecD](https://mecd.vercel.app/)
 <br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/andré-lucas-coêlho-b55b0622a/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
