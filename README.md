@@ -17,8 +17,6 @@ class AboutMe(Developer):
         self.work = 'Freelance'
         self.location = 'Salvador, BA'
 ```
-<img src="https://github-profile-trophy.vercel.app/?username=Dec0XD&theme=onestar&row=1&column=3&no-bg=true&margin-w=15&margin-h=15" />
-
 ## **Skills and Tools:**  
 
  
@@ -57,6 +55,7 @@ class AboutMe(Developer):
 
 <h4 align="center">Visitor's count</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Dec0XD}/count.svg" alt="Dec0XD :: Visitor's Count" /></p>
+<img src="https://github-profile-trophy.vercel.app/?username=Dec0XD&theme=onestar&row=1&column=3&no-bg=true&margin-w=15&margin-h=15" />
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dec0XD&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dec0XD&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dec0XD&theme=nord_dark) |
 | :-: | :-: | :-: |
