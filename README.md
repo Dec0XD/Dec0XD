@@ -78,7 +78,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Intelligence and research trainee** \
 [**Rede Bahia**](https://www.redebahia.com.br/) • Full-time \
-Linguagens & Tecnologias: `Python`, `NodeJS`, `React Native`, `HTM5L`,`CSS3`, `JavaScript`, `C#`, `Excel`, `Power BI`\
+Linguagens & Tecnologias: `Python`, `Flutter`, `React Native`, `HTM5L`,`CSS3`, `JavaScript`, `Excel`, `Power BI`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="SenaiCimatec" src="https://evento.connectedsmartcities.com.br/wp-content/uploads/2018/02/csc18_logo_senai_cimatec_300x184.jpg"/>](https://www.senaicimatec.com.br)
