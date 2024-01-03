@@ -17,6 +17,7 @@ class AboutMe(Developer):
         self.work = 'Freelance'
         self.location = 'Salvador, BA'
 ```
+<img src="https://github-profile-trophy.vercel.app/?username=Dec0XD&theme=onestar&row=1&column=3&no-bg=true&margin-w=15&margin-h=15" />
 
 ## **Skills and Tools:**  
 
