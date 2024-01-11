@@ -14,7 +14,7 @@ class AboutMe(Developer):
         super().__init__()
         self.name = 'André Coêlho'
         self.area = 'Back-End'
-        self.work = 'Freelance'
+        self.work = 'Intelligence and research trainee at Rede Bahia'
         self.location = 'Salvador, BA'
 ```
 ## **Skills and Tools:**  
