@@ -71,30 +71,30 @@ class AboutMe(Developer):
   <a href="mailto:andrelucascoelho281@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
 </div> 
 
-### Experiência de trabalho
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+### Work Experience
+In the overview below, you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/JDvKD_pmlbIWhASNmqn8IaGUPzdRhhQ2Mpqk5Yj7Z9ZqREtV8oprlxh38TiUGPZpwF379k3fDA=s900-c-k-c0x00ffffff-no-rj"/>](https://redeglobo.globo.com/redebahia/)
 
-**Intelligence and research trainee** \
+**Intelligence and Research Trainee** \
 [**Rede Bahia**](https://www.redebahia.com.br/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `Flutter`, `React Native`, `HTM5L`,`CSS3`, `JavaScript`, `Excel`, `Power BI`\
+Languages & Technologies: `Python`, `Django`, `Flutter`, `React Native`, `HTML5`, `CSS3`, `JavaScript`, `Excel`, `Power BI`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="SenaiCimatec" src="https://evento.connectedsmartcities.com.br/wp-content/uploads/2018/02/csc18_logo_senai_cimatec_300x184.jpg"/>](https://www.senaicimatec.com.br)
 
 **Back-end Developer** \
 [**Senai Cimatec**](https://seja.senaicimatec.com.br/graduacao/?utm_source=ZYGON&utm_medium=SEARCH&utm_campaign=SEARCH_OBJECTIVA_FIEB-SENAI_CIMATEC-GRADUACAO-2024-1_SET-NOV-23_NA&utm_content=SEARCH_OBJECTIVA_FIEB-SENAI_CIMATEC-GRADUACAO-2024-1_SET-NOV-23_NA_NA_NA_NA_&utm_term=SEARCH_OBJECTIVA_FIEB-SENAI_CIMATEC-GRADUACAO-2024-1_SET-NOV-23_NA_NA_NA&gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEvvMs5crIKeMWKcWBc0mqtewevaxzCzT01FmANTKbIM2oiNulnf4ohoCMskQAvD_BwE/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Flask`, `HTML5`, `JavaScript`, `CSS3`\
-Projetos em destaque: [Semantc jung](https://github.com/Dec0XD/1projeto), [Projeto assistente virtual](https://github.com/Dec0XD/1projeto), [Find the money](https://github.com/Dec0XD/find-the-money)
+Languages & Technologies: `Python`, `Flask`, `HTML5`, `JavaScript`, `CSS3`\
+Highlighted Projects: [Semantic Jung](https://github.com/Dec0XD/1projeto), [Virtual Assistant Project](https://github.com/Dec0XD/1projeto), [Find the Money](https://github.com/Dec0XD/find-the-money)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://servicoprocessamento.com/wp-content/uploads/2021/11/freelance-1024x683.jpg"/>](https://portifolio.bohr.io/)
 
 **Freelance Developer** \
 [**Freelance**] • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `JavaScript`\
-Projetos em destaque: [WiseCalc](https://projeto-site-phi.vercel.app/), [Portal MecD](https://mecd.vercel.app/)
+Languages & Technologies: `Python`, `Django`, `HTML`, `JavaScript`\
+Highlighted Projects: [WiseCalc](https://projeto-site-phi.vercel.app/), [Portal MecD](https://mecd.vercel.app/)
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/andré-lucas-coêlho-b55b0622a/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Please find me on [LinkedIn](https://www.linkedin.com/in/andré-lucas-coêlho-b55b0622a/) for a more detailed description of my work experience, education, and certification.
