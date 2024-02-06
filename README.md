@@ -51,11 +51,23 @@ class AboutMe(Developer):
     
   </div>
 
-## **GitHub stats** 
+--- 
 
-<h4 align="center">Visitor's count</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{Dec0XD}/count.svg" alt="Dec0XD :: Visitor's Count" /></p>
-<img src="https://github-profile-trophy.vercel.app/?username=Dec0XD&theme=onestar&row=1&column=3&no-bg=true&margin-w=15&margin-h=15" />
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=Dec0XD&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+---
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dec0XD&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dec0XD&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dec0XD&theme=nord_dark) |
 | :-: | :-: | :-: |
