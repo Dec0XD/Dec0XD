@@ -110,4 +110,4 @@ Languages & Technologies: `Python`, `Django`, `HTML`, `JavaScript`\
 Highlighted Projects: [WiseCalc](https://projeto-site-phi.vercel.app/), [Portal MecD](https://mecd.vercel.app/)
 <br/>
 
-Please find me on [LinkedIn](https://www.linkedin.com/in/andré-lucas-coêlho-b55b0622a/) for a more detailed description of my work experience, education, and certification.
+Please find me on [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-co%C3%AAlho-b55b0622a/) for a more detailed description of my work experience, education, and certification.
