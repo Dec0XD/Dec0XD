@@ -87,7 +87,7 @@ class AboutMe(Developer):
 ### Work Experience
 In the overview below, you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://redeglobo.globo.com/redebahia/"/>]
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/JDvKD_pmlbIWhASNmqn8IaGUPzdRhhQ2Mpqk5Yj7Z9ZqREtV8oprlxh38TiUGPZpwF379k3fDA=s900-c-k-c0x00ffffff-no-rj"/>](https://redeglobo.globo.com/redebahia/)
 
 **Intelligence and Research Trainee** \
 [**Rede Bahia**](https://redeglobo.globo.com/redebahia/)) • Full-time \
