@@ -87,7 +87,7 @@ class AboutMe(Developer):
 ### Work Experience
 In the overview below, you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/JDvKD_pmlbIWhASNmqn8IaGUPzdRhhQ2Mpqk5Yj7Z9ZqREtV8oprlxh38TiUGPZpwF379k3fDA=s900-c-k-c0x00ffffff-no-rj"/>](https://redeglobo.globo.com/redebahia/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Rede_Bahia_logo_%282025%29.png"/>](https://redeglobo.globo.com/redebahia/)
 
 **Intelligence and Research Trainee** \
 [**Rede Bahia**](https://redeglobo.globo.com/redebahia/)) • Full-time \
@@ -102,7 +102,7 @@ Languages & Technologies: `Python`, `Flask`, `HTML5`, `JavaScript`, `CSS3`\
 Highlighted Projects: [Semantic Jung](https://github.com/Dec0XD/1projeto), [Virtual Assistant Project](https://github.com/Dec0XD/1projeto), [Find the Money](https://github.com/Dec0XD/find-the-money)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://servicoprocessamento.com/wp-content/uploads/2021/11/freelance-1024x683.jpg"/>](https://portifolio.bohr.io/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://imgs.jusbr.com/publications/images/c183381b79b4079f6db4439b988841ba"/>](https://portifolio.bohr.io/)
 
 **Freelance Developer** \
 [**Freelance**] • Full-time \
